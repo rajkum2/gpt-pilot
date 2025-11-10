@@ -4,6 +4,4 @@ export default {
     tailwindcss: {},
     autoprefixer: {},
   },
-}
-
-{% endraw %}
+};

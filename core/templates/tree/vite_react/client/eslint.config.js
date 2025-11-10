@@ -27,5 +27,3 @@ export default tseslint.config(
     },
   },
 )
-
-{% endraw %}

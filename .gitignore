@@ -23,3 +23,6 @@ poetry.lock
 .DS_Store
 *.log
 pythagora-vs-code.vsix
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
